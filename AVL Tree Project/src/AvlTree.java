@@ -5,8 +5,7 @@
 
 // start of the AvlTree class. This class contains the methods for conducting the operations of the AVL tree.
 // it also includes methods for balancing the tree if any of the subtree become unbalanced.
-// This was pretty tricky. I had to do a lot of research to get this working. I will
-// go back and add to this because it was actually pretty interesting.
+
 
 import java.util.LinkedList;
 import java.util.Queue;
