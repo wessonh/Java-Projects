@@ -10,17 +10,7 @@ import java.util.*;
 // that allows the user to add a contact to phonebook, delete a contact, view all contacts, search for their name,
 // address, or phone number.
 
-// For Extra Credit I used switch case and try catch in my menu of my Main method. I would have made the program
-// more user error proof but i didn't end up having enough time with the exam looming and the other lab.
-
-// For extra credit I was able to do the optional methods of editing elements in the modes like name, phone number, and
-// address. I could not get these to work with the test contacts I added so in order to use these you have to add your
-// own first. I commented out the test contacts for this reason. I wanted to fix this but I didn't end up having enough
-// time. Other than that everything seems to work the way it should. If you know how to could fix this please let me
-// know! Thank you!
-
-// I also realized I could have made my search address feature better because I realized I left out the city part of it
-// but didn't have enough time to add it. I decided I just needed to turn this in with the midterm coming soon.
+// add search by address to this program
 
 
 // start of phoneBook class
