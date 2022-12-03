@@ -4,7 +4,7 @@
 // Assignment 3 - AVL tree
 
 // This class contains the AvlNode which store the member Info for each node in the Avl Tree.
-// Kind of messy but I didn't end up having time to fix it. Going to work on this more after the final.
+// work in progress
 public class AvlNode
 {
     // declaring variables
