@@ -1,6 +1,5 @@
 // Henry Wesson
 // CS 145
-// Assignment 1 - Word Search Generator
 // November 1, 2022
 
 // This class contains the methods responsible for the menu functionality in the main method. Each of these are
