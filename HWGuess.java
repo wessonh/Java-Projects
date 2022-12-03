@@ -2,13 +2,11 @@
 // 09/25/2022
 // CS 145 Hybrid
 // Lab 1 - Guessing Game
+
 // This program will function as a guessing game. It will show the user how to play and pick a number between 
 // 1 and a number of their choice. It will then ask the user to guess the number and tell them to 
 // guess higher or lower until they get it right. It will then prompt them if they want to play again. 
-// If the user gives an invalid input it will display a message and have them try again. The user can play again if
-// they type anything beginning with y or Y. They can end the game if they type anything beginning with n or N.
-// Upon ending a round it will display the summary of the users score. I am a little rusty with coding, let me know
-// if there are ways I can improve this and remove redundacy. Maybe I could method more things out. 
+// If the user gives an invalid input it will display a message and have them try again.  
 
 import java.util.*; 
 
