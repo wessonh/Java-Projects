@@ -1,5 +1,3 @@
-// Henry Wesson
-// CS 145
 // Lab 6 Binary Search Tree Dictionary
 // Nov/23/2022
 
