@@ -1,14 +1,9 @@
-// Henry Wesson
-// CS 145
 // Lab 6 Binary Search Tree Dictionary
 // Nov/23/2022
 
 // This program functions as a Binary Search Tree dictionary that is able to keep track of employee information and orders them by
 // a member number. The menu will let the user add a new employee info node to the binary search tree, delete a node,
 // search for a node which will allow the user to post a pre-order, in order, or post order. and to exit.
-// I know I should have made my main a lot smaller, but I didn't have time before the weekend. I will improve this
-// program more on my free time after the quarter ends. This was a tricky but interesting lab. I would also like
-// to add more user error proofing.
 
 import java.util.*;
 
