@@ -1,13 +1,9 @@
-// Henry Wesson
-// CS 145
 // Lab 6 Binary Search Tree Dictionary
 // Nov/23/2022
 
 // This is the tree class for my binary search tree. This class contains methods that make do the
 // operations of the binary search tree. I accomplished many of these methods by using
-// recursive method calls. I think this works correctly. Kind of ran out of time to edit it anymore,
-// but I plan on coming back to this after then final. Used
-
+// recursive method calls. 
 // start ofc BstTree class.
 public class BstTree
 {
