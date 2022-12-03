@@ -6,10 +6,7 @@
 // This is the main class file for my Towers of Hanoi program. This program is able to solve the towers of hanoi puzzle.
 // It uses Stacks to represent the discs on each peg and it uses a recursive method call to perform the operations to
 // complete the puzzle in the correct(fewest) amount of moves. The user is also able to select the amount of discs they
-// wish to play with. I limited them to 10 because when the numbers started to get higher up the program started to
-// slow down considerably. I was extremely busy so I didn't get to spend quite as much time on this as I would have liked.
-// I wanted to add the ability to play again and a better visual representation of the game but I will have to add
-// it on  my own time.
+// wish to play with from up to 10 discs
 
 import java.util.*;
 
