@@ -5,9 +5,6 @@
 
 import java.util.Scanner;
 
-// this class will contain a method that will act as a menu for the user to choose how many rings they want to play with.
-// I noticed the program slowed down considerable and had weird problems when the ring count got too high so I am
-// making the maximum amount of discs ten.
 public class HWMenu
 {
     public static int menu()
