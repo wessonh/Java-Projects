@@ -10,7 +10,7 @@ import java.util.*;
 // that allows the user to add a contact to phonebook, delete a contact, view all contacts, search for their name,
 // address, or phone number.
 
-// add search by address to this program
+// add search by address method to this
 
 
 // start of phoneBook class
