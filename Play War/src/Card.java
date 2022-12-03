@@ -4,15 +4,8 @@ import java.util.Queue;
 import java.util.Stack;
 
 
-// Henry Wesson
-// CS 145
-// Lab 3 Deck of Cards
-// 10/7/2022
-
 // This is the Card class. Its contains a method that constructs the deck in the form of a 52 card stack.
 // The createDeck method gets the values of the enum classes Face and Suit and assigns each card its corresponding rank.
-
-// Used enum and swtich case for extra credit.
 
 // start of public
 public class Card extends Game
