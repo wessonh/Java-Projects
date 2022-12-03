@@ -10,7 +10,7 @@ public class HWMenu
     public static int menu()
     {
         int maxDiscs = 10; // sets max discs, once the count got higher...
-                           // the program started slowing down and acting weird. limited to ten to be safe
+                           // the program started slowing downd. set limit to be safe
         int disc = 0; // sets intRing to zero initially
         Scanner keyboard = new Scanner(System.in);
 
