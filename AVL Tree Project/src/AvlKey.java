@@ -1,10 +1,9 @@
-// Henry Wesson
 // CS 145
 // November, 27, 2022
 // Assignment 3 - AVL tree
 
 // This class functions as a key for the nodes in my Avl Tree. Might have wanted to move some of this around,
-// but I am still figuring out how to use Avl Trees, so I didn't end up having much time.
+// but I am still figuring out how to use Avl Trees
 
 // start of AvlKey class.
 public class AvlKey
