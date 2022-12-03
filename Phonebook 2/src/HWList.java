@@ -5,7 +5,7 @@
 
 // This is my linked list class for my phonebook program. I got the edit options to work correctly, but they wouldn't
 // work with my testContacts. They work perfectly if you use them on contacts you added yourself. Commented out the
-// testContacts in my PhoneBook.java class. Let me know if you can find out how to make them work correctly
+// testContacts in my PhoneBook.java class.
 
 public class HWList // start Linked List class
 {
