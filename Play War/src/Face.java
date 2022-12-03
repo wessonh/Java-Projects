@@ -1,6 +1,4 @@
-// Henry Wesson
-// Lab 3 Deck of Cards
-// October 7, 2022
+
 
 public enum Face // enum to store faces of cards
 {
