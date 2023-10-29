@@ -6,7 +6,7 @@ import java.io.*;
 
 // start of WordSearch Class, this contains the methods that generate the word search. It does this with 2 different arrays
 // and it also uses a third to generate the solution for the user to view. The program is able to accommodate word
-// length when designing the grid. It is also able to output to a file.
+// length when designing the grid. It is also able to output to a text file. 
 public class WordSearch
 {
     // variables
